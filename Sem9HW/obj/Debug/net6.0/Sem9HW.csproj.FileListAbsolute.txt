@@ -1,0 +1,15 @@
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\bin\Debug\net6.0\Sem9HW.exe
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\bin\Debug\net6.0\Sem9HW.deps.json
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\bin\Debug\net6.0\Sem9HW.runtimeconfig.json
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\bin\Debug\net6.0\Sem9HW.dll
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\bin\Debug\net6.0\Sem9HW.pdb
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\obj\Debug\net6.0\Sem9HW.csproj.AssemblyReference.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\obj\Debug\net6.0\Sem9HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\obj\Debug\net6.0\Sem9HW.AssemblyInfoInputs.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\obj\Debug\net6.0\Sem9HW.AssemblyInfo.cs
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\obj\Debug\net6.0\Sem9HW.csproj.CoreCompileInputs.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\obj\Debug\net6.0\Sem9HW.dll
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\obj\Debug\net6.0\refint\Sem9HW.dll
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\obj\Debug\net6.0\Sem9HW.pdb
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\obj\Debug\net6.0\Sem9HW.genruntimeconfig.cache
+C:\Users\Calculator\OneDrive\Desktop\Homeworks\Lesson9\Seminar9\Sem9HW\obj\Debug\net6.0\ref\Sem9HW.dll
